@@ -1,3 +1,5 @@
 Hola, Me llamo Juan Bautista Zamparini y este es mi primer codigo en git.
 
 Ahora estoy haciendo mi primer edicion.
+
+Hoy es miercoles 13 de octubre.
